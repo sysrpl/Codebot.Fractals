@@ -1,5 +1,5 @@
 # Codebot.Fractals
-A program to explore the Mandelbrot set using your varable CPU cores and software rendering.
+A program to explore the Mandelbrot set using variable CPU cores and software rendering.
 
 ## What is Fractals?
 
