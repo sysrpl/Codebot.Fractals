@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="16">
+      <Unit0>
+        <Filename Value="fractals.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="28" Y="8"/>
+        <UsageCount Value="74"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FractalForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Main"/>
+        <TopLine Value="72"/>
+        <CursorPos X="32" Y="192"/>
+        <UsageCount Value="74"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="fractaltools.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="FractalTools"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="43"/>
+        <CursorPos X="47" Y="69"/>
+        <UsageCount Value="74"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="../../libraries/Cross.Codebot/packages/codebot.system.pas"/>
+        <UnitName Value="Codebot.System"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="4"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../../libraries/Cross.Codebot/packages/codebot.graphics.types.pas"/>
+        <UnitName Value="Codebot.Graphics.Types"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="106"/>
+        <UsageCount Value="4"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../../../FreePascal/fpc/rtl/inc/systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="102"/>
+        <CursorPos X="3" Y="117"/>
+        <UsageCount Value="32"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../../../FreePascal/lazarus/lcl/controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2627"/>
+        <CursorPos X="14" Y="2645"/>
+        <UsageCount Value="21"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="../../Libraries/Cross.Codebot/packages/codebot.system.pas"/>
+        <UnitName Value="Codebot.System"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2871"/>
+        <CursorPos X="36" Y="2907"/>
+        <UsageCount Value="31"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="../../Libraries/Cross.Codebot/packages/codebot.graphics.types.pas"/>
+        <UnitName Value="Codebot.Graphics.Types"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="21"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="../../../FreePascal/fpc/rtl/objpas/math.pp"/>
+        <UnitName Value="Math"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1002"/>
+        <CursorPos Y="1007"/>
+        <UsageCount Value="25"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="../../../FreePascal/fpc/rtl/inc/mathh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="92"/>
+        <CursorPos X="14" Y="110"/>
+        <UsageCount Value="25"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="../../../FreePascal/lazarus/lcl/graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1869"/>
+        <CursorPos X="10" Y="1887"/>
+        <UsageCount Value="24"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="../../Libraries/Cross.Codebot/packages/codebot.text.json.pas"/>
+        <UnitName Value="Codebot.Text.Json"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="437"/>
+        <CursorPos X="3" Y="442"/>
+        <UsageCount Value="10"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="../../../FreePascal/fpc/rtl/objpas/sysutils/osutilsh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="28"/>
+        <CursorPos X="10" Y="44"/>
+        <UsageCount Value="7"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="../../../FreePascal/fpc/rtl/unix/sysutils.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1543"/>
+        <CursorPos X="3" Y="1546"/>
+        <UsageCount Value="7"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="../../Libraries/Cross.Codebot/packages/codebot.graphics.pas"/>
+        <UnitName Value="Codebot.Graphics"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="31" Y="1151"/>
+        <UsageCount Value="13"/>
+      </Unit15>
+    </Units>
+    <JumpHistory Count="12" HistoryIndex="11">
+      <Position1>
+        <Filename Value="main.pas"/>
+        <Caret Line="140" Column="23" TopLine="113"/>
+      </Position1>
+      <Position2>
+        <Filename Value="main.pas"/>
+        <Caret Line="105" Column="21" TopLine="70"/>
+      </Position2>
+      <Position3>
+        <Filename Value="main.pas"/>
+        <Caret Line="128" Column="74" TopLine="103"/>
+      </Position3>
+      <Position4>
+        <Filename Value="main.pas"/>
+        <Caret Line="189" Column="81" TopLine="175"/>
+      </Position4>
+      <Position5>
+        <Filename Value="main.pas"/>
+        <Caret Line="186" TopLine="174"/>
+      </Position5>
+      <Position6>
+        <Filename Value="main.pas"/>
+        <Caret Line="239" TopLine="208"/>
+      </Position6>
+      <Position7>
+        <Filename Value="main.pas"/>
+        <Caret Line="37" Column="5" TopLine="17"/>
+      </Position7>
+      <Position8>
+        <Filename Value="main.pas"/>
+        <Caret Line="185" Column="53" TopLine="152"/>
+      </Position8>
+      <Position9>
+        <Filename Value="main.pas"/>
+        <Caret Line="163" Column="43" TopLine="145"/>
+      </Position9>
+      <Position10>
+        <Filename Value="main.pas"/>
+        <Caret Line="172" Column="51" TopLine="152"/>
+      </Position10>
+      <Position11>
+        <Filename Value="main.pas"/>
+        <Caret Line="251" Column="58"/>
+      </Position11>
+      <Position12>
+        <Filename Value="main.pas"/>
+        <Caret Line="251" Column="58"/>
+      </Position12>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
