@@ -1,4 +1,7 @@
 # Codebot.Fractals
+A program to explore the Mandelbrot set using your varable CPU cores and software rendering.
+
+## What is Fractals?
 
 Fractals is a cross platform desktop interactive Mandelbrot set explorer program that uses variable CPU cores and software rendering to render and navigate the Mandelbrot set. You can change the number of CPU cores used to render a frame from the set and compare its performance as cores are increased or decreased.
 
