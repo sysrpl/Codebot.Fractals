@@ -4,7 +4,7 @@ Fractals is a cross platform desktop interactive Mandelbrot set explorer program
 
 This program is part of a greater computer programming studies course taught to children using resources and tools from the [getlazarus website](https://www.getlazarus.org/learn/).
 
-https://user-images.githubusercontent.com/1647932/117616227-d5e87b80-b138-11eb-84fd-a37c53130808.mp4
+https://user-images.githubusercontent.com/1647932/117620672-b3f1f780-b13e-11eb-8b47-ea83d1018ff7.mp4
 
 ## See Also
 
